@@ -1,15 +1,15 @@
-<h1 align="center">Olá, Tudo bem? Eu Sou o Guilherme😁 </h1>
-<h3 align="center">Uma Pessoa Curiosa por Programação e amante da Tecnologia</h3>
+<h1 align="center">Hello, How Are You? I'm Guilherme😁 </h1>
+<h3 align="center">A Curious Person in Programming and Technology Lover</h3>
 
-- 🔭 I’m currently working on **Projetos em C#, Envolvendo o .Net, MVC**
+- 🔭 I’m currently working on **C#, Involving .Net, MVC**
 
 - 🌱 I’m currently learning **C#, .Net**
 
 - 📫 How to reach me **guilhermeduarte14511@gmail.com**
 
-- 📄 Know about my experiences [Suporte Técnico, e Desenvolvimento HTML, CSS3, CSS5, BOOTSTRAP, JAVA, C# E SQL](Suporte Técnico, e Desenvolvimento HTML, CSS3, CSS5, BOOTSTRAP, JAVA, C# E SQL)
+- 📄Know about my experiences(Technical Support, and Development HTML, CSS3, CSS5, BOOTSTRAP, JAVA, C# AND SQL)
 
-- ⚡ Fun fact **Gosto De Ler, Assistir Séries, Jogar nos tempos livres, e gosto de me desafiar com novos desafios dentro da programação**
+- ⚡ Fun fact **Fun fact I like Reading, Watching Series, Playing in my spare time, and I like to challenge myself with new challenges within the schedule**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
