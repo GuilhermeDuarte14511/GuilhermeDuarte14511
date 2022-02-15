@@ -1,4 +1,4 @@
-<h1 align="center">Olá, Tudo bem? Guilherme Duarte de Oliveira</h1>
+<h1 align="center">Olá, Tudo bem? Eu Sou o Guilherme😁 </h1>
 <h3 align="center">Uma Pessoa Curiosa por Programação e amante da Tecnologia</h3>
 
 - 🔭 I’m currently working on **Projetos em C#, Envolvendo o .Net, MVC**
