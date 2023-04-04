@@ -1,15 +1,15 @@
 <h1 align="center">Olá, Tudo bem? Guilherme Duarte de Oliveira</h1>
 <h3 align="center">Uma Pessoa Curiosa por Programação e amante da Tecnologia</h3>
 
-- 🔭 I’m currently working on **Projetos em C#, Envolvendo o .Net, MVC**
+- 🔭 Estou trabalhando atualmente em **Projetos em C#, Envolvendo o .Net, MVC**
 
-- 🌱 I’m currently learning **C#, .Net, HTML, Angular, Bootstrap**
+- 🌱 Estudando sempre sobre: **C#, .Net, HTML, Angular, Bootstrap**
 
-- 📫 How to reach me **guilhermeduarte14511@gmail.com**
+- 📫 Contato: **guilhermeduarte14511@gmail.com**
 
-- 📄 Know about my experiences **(Suporte Técnico, e Desenvolvimento HTML, CSS3, CSS5, BOOTSTRAP, JAVA, C# E SQL)**
+- 📄 Um pouco sobre minhas exeperiências **(Suporte Técnico, e Desenvolvimento HTML, CSS3, CSS5, BOOTSTRAP, JAVA, C# E SQL)**
 
-- ⚡ Fun fact **Gosto De Ler, Assistir Séries, Jogar nos tempos livres, e gosto de me desafiar com novos desafios dentro da programação**
+- ⚡Sobre meu tempo livre: **Gosto De Ler, Assistir Séries, Jogar nos tempos livres, e gosto de me desafiar com novos desafios dentro da programação**
 
 
 <h3 align="left">Connect with me:</h3>
