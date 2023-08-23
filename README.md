@@ -1,7 +1,7 @@
 <h1 align="center">Olá, Tudo bem? Guilherme Duarte de Oliveira</h1>
 <h3 align="center">Uma Pessoa Curiosa por Programação e amante da Tecnologia</h3>
 
-- 🔭 Estou trabalhando atualmente em **Projetos em C#, Envolvendo o .Net, MVC**
+- 🔭 Estou trabalhando atualmente em **Projetos em C#, Envolvendo o .Net, MVC, Xamarin, SQL Server, AWS Cognito e QuickSight**
 
 - 🌱 Estudando sempre sobre: **C#, .Net, HTML, Angular, Bootstrap**
 
